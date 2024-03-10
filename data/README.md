@@ -24,3 +24,4 @@ Stay hungry, stay foolish. Opportunities don't happen. You create them. NLP Virt
 Testing Data Science Kafka Logging Machine Learning Happiness is not something ready made. It comes from your own actions.
 React A/B Testing Algorithm API Gateway Pull Request WebSockets
 Load Balancing Sharding Distributed Systems Predictive Analytics Backend Scalability Great things never come from comfort zones. Load Testing Neural Networks Event-driven Architecture Content Delivery Network Agile Kubernetes Happiness is not something ready made. It comes from your own actions.
+Happiness is not something ready made. It comes from your own actions. Load Balancing Event-driven Architecture Success is how high you bounce when you hit bottom. RabbitMQ Work hard in silence, let your success be your noise. Security
