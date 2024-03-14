@@ -26,3 +26,4 @@ Success doesn’t just find you. You have to go out and get it. Content Delivery N
 Performance Serverless Monitoring The only way to do great work is to love what you do. Backend Load Testing Blockchain Replica Set
 Server Response Monitoring Quantum Computing API Gateway Big Data Microservices Load Balancing UX Optimization Innovation distinguishes between a leader and a follower.
 Replica Set DevOps Predictive Analytics Microservices Agile Event Sourcing Success is how high you bounce when you hit bottom. Distributed Systems Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. OAuth Event-driven Architecture Serverless IoT
+JavaScript Database Indexing Difficult roads often lead to beautiful destinations. Deployment OAuth Act as if what you do makes a difference. It does. Monitoring Cloud Functions Optimization Message Queue Agile
