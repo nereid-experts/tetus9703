@@ -29,3 +29,4 @@ Containerization Message Queue Database Indexing Cloud Functions Content Deliver
 API Gateway Great things never come from comfort zones. Content Delivery Network Quantum Computing Testing
 Happiness is not something ready made. It comes from your own actions. Frontend IoT Server Response Testing Simplicity is the ultimate sophistication. Virtual Machines Big Data Great things never come from comfort zones. API The only way to do great work is to love what you do. Optimization Backend CI/CD Edge Computing
 Message Queue API Gateway Success is not in what you have, but who you are. Artificial Intelligence Stay hungry, stay foolish. Do what you love and the money will follow. Code Review Load Balancing Act as if what you do makes a difference. It does. React Serverless Firewalls
+Version Control Backend Cloud Functions Monitoring DNS Routing Containerization Sharding Framework Kubernetes Success is how high you bounce when you hit bottom.

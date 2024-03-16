@@ -16,3 +16,4 @@ A/B Testing Success doesn’t just find you. You have to go out and get it. React 
 Load Balancing Security CI/CD Performance Algorithm Latency Optimization
 Dream big and dare to fail. WebSockets Cloud Functions Cloud Lambda Functions
 Containerization Event Sourcing Parallel Processing Cache Invalidation Content Delivery Network Frontend Logging A/B Testing JavaScript
+Serverless Security Predictive Analytics Backend Load Testing IoT Docker Virtual Machines Simplicity is the ultimate sophistication. Logging Performance Innovation distinguishes between a leader and a follower. Big Data Version Control Cache Invalidation
