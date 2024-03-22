@@ -23,3 +23,4 @@ Testing OAuth Act as if what you do makes a difference. It does. NLP Artificial 
 Stay hungry, stay foolish. Opportunities don't happen. You create them. NLP Virtual Machines Security Act as if what you do makes a difference. It does. DNS Routing Success is not in what you have, but who you are. Big Data If you can dream it, you can do it. Do what you love and the money will follow. Testing
 Testing Data Science Kafka Logging Machine Learning Happiness is not something ready made. It comes from your own actions.
 React A/B Testing Algorithm API Gateway Pull Request WebSockets
+Load Balancing Sharding Distributed Systems Predictive Analytics Backend Scalability Great things never come from comfort zones. Load Testing Neural Networks Event-driven Architecture Content Delivery Network Agile Kubernetes Happiness is not something ready made. It comes from your own actions.
