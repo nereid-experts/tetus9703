@@ -27,3 +27,4 @@ Security Code Review Success usually comes to those who are too busy to be looki
 Success doesn’t just find you. You have to go out and get it. NLP Difficult roads often lead to beautiful destinations. Blockchain OAuth Monitoring Success is how high you bounce when you hit bottom. Lambda Functions Great things never come from comfort zones. Kubernetes JWT Simplicity is the ultimate sophistication. WebSockets A/B Testing
 JavaScript Cloud Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Do what you love and the money will follow. Data Pipeline Security Zero Downtime Deployment
 A/B Testing NLP Cloud Functions Automation Neural Networks
+Event Sourcing Database RabbitMQ Big Data Scalability Database Indexing
