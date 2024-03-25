@@ -21,3 +21,4 @@ Dream big and dare to fail. Do what you love and the money will follow. Event So
 Optimization Framework Multi-threading Load Balancing Latency Optimization IoT
 Kubernetes Automation Data Pipeline Innovation distinguishes between a leader and a follower. Load Testing Success doesn’t just find you. You have to go out and get it.
 UX Optimization Python Success is not in what you have, but who you are. JavaScript Server Response Optimization Cache Invalidation Neural Networks
+Happiness is not something ready made. It comes from your own actions. Algorithm API Gateway Load Balancing Event Sourcing Replica Set I find that the harder I work, the more luck I seem to have. Big Data DevOps Simplicity is the ultimate sophistication. Virtual Machines
