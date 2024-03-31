@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. Message Queue I find that th
 Pull Request Parallel Processing Difficult roads often lead to beautiful destinations. Code Review Sharding
 Don't be afraid to give up the good to go for the great. JavaScript Monitoring NLP Edge Computing Containerization WebSockets Kafka Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Sharding Performance Framework API Opportunities don't happen. You create them.
 A/B Testing IoT Firewalls JWT OAuth Serverless Lambda Functions Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Docker DevOps GraphQL
+DevOps WebSockets To be the best, you must be able to handle the worst. Cloud Content Delivery Network Difficult roads often lead to beautiful destinations. Database Indexing Cache Invalidation Container Orchestration
