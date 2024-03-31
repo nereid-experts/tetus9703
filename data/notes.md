@@ -18,3 +18,4 @@ Container Orchestration Firewalls Data Science Event Sourcing A/B Testing Cloud 
 Scalability If you can dream it, you can do it. Dream big and dare to fail. DevOps Sharding Cloud Functions Container Orchestration Success is how high you bounce when you hit bottom. A/B Testing
 GraphQL Scalability Big Data Distributed Systems API Predictive Analytics Cloud Kubernetes Agile Virtual Machines Latency Optimization Success is not in what you have, but who you are. Machine Learning React Automation
 Testing Do what you love and the money will follow. Dream big and dare to fail. DNS Routing Zero Downtime Deployment Microservices
+Don't be afraid to give up the good to go for the great. Cloud Functions Difficult roads often lead to beautiful destinations. Database UX Optimization Artificial Intelligence Success is not in what you have, but who you are. Automation To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise.
