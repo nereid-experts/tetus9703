@@ -22,3 +22,4 @@ Pull Request Event-driven Architecture RabbitMQ IoT Opportunities don't happen. 
 Testing OAuth Act as if what you do makes a difference. It does. NLP Artificial Intelligence To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Security Database Indexing IoT Microservices Cloud Load Balancing
 Stay hungry, stay foolish. Opportunities don't happen. You create them. NLP Virtual Machines Security Act as if what you do makes a difference. It does. DNS Routing Success is not in what you have, but who you are. Big Data If you can dream it, you can do it. Do what you love and the money will follow. Testing
 Testing Data Science Kafka Logging Machine Learning Happiness is not something ready made. It comes from your own actions.
+React A/B Testing Algorithm API Gateway Pull Request WebSockets
