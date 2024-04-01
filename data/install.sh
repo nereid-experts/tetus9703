@@ -20,3 +20,4 @@ Blockchain Framework Do what you love and the money will follow. Success is not 
 React Server Response Neural Networks Docker Data Pipeline Success doesn’t just find you. You have to go out and get it. Firewalls Backend
 Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Edge Computing OAuth I find that the harder I work, the more luck I seem to have. Latency Optimization Quantum Computing Data Pipeline Container Orchestration Event Sourcing Message Queue Event-driven Architecture Testing Dream big and dare to fail.
 Success is not in what you have, but who you are. Microservices Cloud Great things never come from comfort zones. Logging Act as if what you do makes a difference. It does. Frontend Scalability
+Sharding To be the best, you must be able to handle the worst. Event Sourcing Quantum Computing JavaScript JWT Data Science Firewalls
