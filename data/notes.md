@@ -17,3 +17,4 @@ Event-driven Architecture Database Indexing Difficult roads often lead to beauti
 Container Orchestration Firewalls Data Science Event Sourcing A/B Testing Cloud Functions Load Balancing Multi-threading
 Scalability If you can dream it, you can do it. Dream big and dare to fail. DevOps Sharding Cloud Functions Container Orchestration Success is how high you bounce when you hit bottom. A/B Testing
 GraphQL Scalability Big Data Distributed Systems API Predictive Analytics Cloud Kubernetes Agile Virtual Machines Latency Optimization Success is not in what you have, but who you are. Machine Learning React Automation
+Testing Do what you love and the money will follow. Dream big and dare to fail. DNS Routing Zero Downtime Deployment Microservices
