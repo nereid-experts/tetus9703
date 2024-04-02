@@ -16,3 +16,4 @@ Agile Content Delivery Network Happiness is not something ready made. It comes f
 Event-driven Architecture Database Indexing Difficult roads often lead to beautiful destinations. Neural Networks Container Orchestration Latency Optimization Cache Invalidation JavaScript Algorithm
 Container Orchestration Firewalls Data Science Event Sourcing A/B Testing Cloud Functions Load Balancing Multi-threading
 Scalability If you can dream it, you can do it. Dream big and dare to fail. DevOps Sharding Cloud Functions Container Orchestration Success is how high you bounce when you hit bottom. A/B Testing
+GraphQL Scalability Big Data Distributed Systems API Predictive Analytics Cloud Kubernetes Agile Virtual Machines Latency Optimization Success is not in what you have, but who you are. Machine Learning React Automation
