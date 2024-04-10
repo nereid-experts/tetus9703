@@ -20,3 +20,4 @@ DNS Routing Success doesn’t just find you. You have to go out and get it. GraphQ
 Dream big and dare to fail. Do what you love and the money will follow. Event Sourcing API Automation Security Load Testing React Deployment Predictive Analytics To be the best, you must be able to handle the worst.
 Optimization Framework Multi-threading Load Balancing Latency Optimization IoT
 Kubernetes Automation Data Pipeline Innovation distinguishes between a leader and a follower. Load Testing Success doesn’t just find you. You have to go out and get it.
+UX Optimization Python Success is not in what you have, but who you are. JavaScript Server Response Optimization Cache Invalidation Neural Networks
