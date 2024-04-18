@@ -24,3 +24,4 @@ Innovation distinguishes between a leader and a follower. DNS Routing The only w
 Server Response Container Orchestration GraphQL Edge Computing Distributed Systems Security Don't be afraid to give up the good to go for the great. Data Pipeline Data Science
 Parallel Processing Sharding Frontend API Cloud Functions I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. React Zero Downtime Deployment Content Delivery Network Data Pipeline Agile DevOps
 Frontend API Gateway Database Container Orchestration Docker Parallel Processing API
+Data Pipeline Big Data Happiness is not something ready made. It comes from your own actions. Logging To be the best, you must be able to handle the worst. Database Indexing Agile Multi-threading Containerization Code Review

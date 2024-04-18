@@ -24,3 +24,4 @@ OAuth Automation Don't be afraid to give up the good to go for the great. Succes
 The only way to do great work is to love what you do. Database WebSockets Innovation distinguishes between a leader and a follower. IoT API Performance
 Containerization Do what you love and the money will follow. OAuth Cloud Functions Work hard in silence, let your success be your noise. Logging Sharding Performance Virtual Machines Edge Computing
 Load Balancing Distributed Systems Cloud Latency Optimization Frontend DNS Routing Logging Replica Set Scalability Act as if what you do makes a difference. It does. Backend Database
+API Gateway NLP Latency Optimization Data Science Deployment Success usually comes to those who are too busy to be looking for it. Multi-threading Monitoring Act as if what you do makes a difference. It does. RabbitMQ Distributed Systems Blockchain Cache Invalidation Version Control Difficult roads often lead to beautiful destinations.
