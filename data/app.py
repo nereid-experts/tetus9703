@@ -23,3 +23,4 @@ JavaScript Don't be afraid to give up the good to go for the great. I find that 
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Big Data Logging CI/CD Python Dream big and dare to fail. Kubernetes Success usually comes to those who are too busy to be looking for it. Replica Set Work hard in silence, let your success be your noise. Cloud
 Pull Request Cache Invalidation Framework Monitoring Database Indexing A/B Testing Scalability
 Code Review Blockchain Data Pipeline OAuth Database Indexing Do what you love and the money will follow. DNS Routing Artificial Intelligence
+Performance Zero Downtime Deployment Scalability Serverless Optimization Deployment Difficult roads often lead to beautiful destinations. Virtual Machines Lambda Functions
