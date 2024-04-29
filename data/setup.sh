@@ -20,3 +20,4 @@ Cache Invalidation NLP Predictive Analytics Event Sourcing Microservices Success
 Kubernetes Distributed Systems Load Balancing Container Orchestration Quantum Computing Great things never come from comfort zones. Testing Data Pipeline
 Docker To be the best, you must be able to handle the worst. Automation Innovation distinguishes between a leader and a follower. Database Indexing Backend I find that the harder I work, the more luck I seem to have. JWT Algorithm NLP Neural Networks Cache Invalidation Kubernetes Load Balancing
 If you can dream it, you can do it. Scalability Containerization Algorithm Event Sourcing Happiness is not something ready made. It comes from your own actions. Security Blockchain API Gateway Load Testing
+Success is how high you bounce when you hit bottom. IoT Dream big and dare to fail. RabbitMQ React A/B Testing Firewalls
