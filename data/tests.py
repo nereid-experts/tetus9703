@@ -15,3 +15,4 @@ Cloud Functions Artificial Intelligence NLP Stay hungry, stay foolish. Happiness
 CI/CD Success usually comes to those who are too busy to be looking for it. Predictive Analytics WebSockets Neural Networks Container Orchestration A/B Testing Cloud
 API Gateway IoT Success doesn’t just find you. You have to go out and get it. Kafka Blockchain Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Server Response
 Content Delivery Network Success doesn’t just find you. You have to go out and get it. DevOps Virtual Machines Success is not in what you have, but who you are. Distributed Systems UX Optimization Python Machine Learning API Gateway
+The only way to do great work is to love what you do. If you can dream it, you can do it. Cache Invalidation Content Delivery Network Lambda Functions Testing Success is not in what you have, but who you are. Optimization Event Sourcing Monitoring
