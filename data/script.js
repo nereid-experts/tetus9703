@@ -26,3 +26,4 @@ Data Pipeline Lambda Functions The only way to do great work is to love what you
 Multi-threading Parallel Processing DNS Routing CI/CD IoT Load Balancing Event-driven Architecture The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. DevOps Docker Distributed Systems Frontend Kafka
 Success usually comes to those who are too busy to be looking for it. NLP Deployment Container Orchestration Cloud Microservices Parallel Processing React
 Containerization Message Queue Database Indexing Cloud Functions Content Delivery Network API Kubernetes Code Review Multi-threading Predictive Analytics Innovation distinguishes between a leader and a follower. Sharding
+API Gateway Great things never come from comfort zones. Content Delivery Network Quantum Computing Testing
