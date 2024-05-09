@@ -23,3 +23,4 @@ Deployment Success is not in what you have, but who you are. Neural Networks Loa
 JavaScript Logging If you can dream it, you can do it. Neural Networks Distributed Systems Docker Kubernetes IoT Firewalls Latency Optimization Edge Computing Success is not in what you have, but who you are. Optimization Pull Request Opportunities don't happen. You create them.
 Load Balancing API Gateway If you can dream it, you can do it. CI/CD Opportunities don't happen. You create them. Scalability Automation
 Success doesn’t just find you. You have to go out and get it. Content Delivery Network Cache Invalidation Backend Opportunities don't happen. You create them. CI/CD OAuth NLP Framework Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. DevOps Testing A/B Testing
+Performance Serverless Monitoring The only way to do great work is to love what you do. Backend Load Testing Blockchain Replica Set
