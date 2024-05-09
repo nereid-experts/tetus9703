@@ -16,3 +16,4 @@ Scalability Server Response To be the best, you must be able to handle the worst
 Dream big and dare to fail. Automation Serverless Parallel Processing API Load Balancing Kafka Artificial Intelligence
 Pull Request Framework WebSockets Deployment OAuth Big Data
 Agile NLP CI/CD Dream big and dare to fail. Algorithm
+DNS Routing Success doesn’t just find you. You have to go out and get it. GraphQL Firewalls Python Event-driven Architecture Success is how high you bounce when you hit bottom. IoT Event Sourcing Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. RabbitMQ Dream big and dare to fail. JWT Cloud Functions

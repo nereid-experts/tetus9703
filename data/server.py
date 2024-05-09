@@ -23,3 +23,4 @@ Database Indexing Great things never come from comfort zones. Happiness is not s
 Innovation distinguishes between a leader and a follower. DNS Routing The only way to do great work is to love what you do. WebSockets Load Testing Database Indexing Agile Optimization Great things never come from comfort zones.
 Server Response Container Orchestration GraphQL Edge Computing Distributed Systems Security Don't be afraid to give up the good to go for the great. Data Pipeline Data Science
 Parallel Processing Sharding Frontend API Cloud Functions I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. React Zero Downtime Deployment Content Delivery Network Data Pipeline Agile DevOps
+Frontend API Gateway Database Container Orchestration Docker Parallel Processing API
