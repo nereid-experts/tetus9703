@@ -24,3 +24,4 @@ Lambda Functions Success doesn’t just find you. You have to go out and get it. A
 Optimization Zero Downtime Deployment Version Control Firewalls Lambda Functions NLP Serverless I find that the harder I work, the more luck I seem to have.
 Data Pipeline Lambda Functions The only way to do great work is to love what you do. Logging API Gateway Cache Invalidation Backend Content Delivery Network
 Multi-threading Parallel Processing DNS Routing CI/CD IoT Load Balancing Event-driven Architecture The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. DevOps Docker Distributed Systems Frontend Kafka
+Success usually comes to those who are too busy to be looking for it. NLP Deployment Container Orchestration Cloud Microservices Parallel Processing React
