@@ -15,3 +15,4 @@ Scalability Simplicity is the ultimate sophistication. Big Data Success doesn’t 
 Agile Content Delivery Network Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. CI/CD Container Orchestration Predictive Analytics DevOps Artificial Intelligence Database Indexing UX Optimization
 Event-driven Architecture Database Indexing Difficult roads often lead to beautiful destinations. Neural Networks Container Orchestration Latency Optimization Cache Invalidation JavaScript Algorithm
 Container Orchestration Firewalls Data Science Event Sourcing A/B Testing Cloud Functions Load Balancing Multi-threading
+Scalability If you can dream it, you can do it. Dream big and dare to fail. DevOps Sharding Cloud Functions Container Orchestration Success is how high you bounce when you hit bottom. A/B Testing
