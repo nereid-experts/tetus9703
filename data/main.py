@@ -14,3 +14,4 @@ Code Review Blockchain React GraphQL OAuth Don't be afraid to give up the good t
 Replica Set The only way to do great work is to love what you do. Code Review OAuth Success is not in what you have, but who you are. Database JWT A/B Testing
 A/B Testing Success doesn’t just find you. You have to go out and get it. React Parallel Processing Blockchain Stay hungry, stay foolish. Neural Networks
 Load Balancing Security CI/CD Performance Algorithm Latency Optimization
+Dream big and dare to fail. WebSockets Cloud Functions Cloud Lambda Functions
