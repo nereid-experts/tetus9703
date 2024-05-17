@@ -19,3 +19,4 @@ API Gateway Difficult roads often lead to beautiful destinations. A/B Testing We
 Load Balancing Distributed Systems Database Indexing Replica Set Logging Performance Server Response
 Cloud Do what you love and the money will follow. Event Sourcing DNS Routing Stay hungry, stay foolish. Version Control Docker Act as if what you do makes a difference. It does. UX Optimization Data Science Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Content Delivery Network
 Pull Request Event-driven Architecture RabbitMQ IoT Opportunities don't happen. You create them.
+Testing OAuth Act as if what you do makes a difference. It does. NLP Artificial Intelligence To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Security Database Indexing IoT Microservices Cloud Load Balancing
