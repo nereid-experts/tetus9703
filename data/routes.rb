@@ -22,3 +22,4 @@ Event Sourcing Container Orchestration Database Firewalls Message Queue
 Cache Invalidation Artificial Intelligence Cloud Functions DNS Routing API Gateway Simplicity is the ultimate sophistication. Algorithm Distributed Systems Container Orchestration Database Content Delivery Network Neural Networks Frontend Lambda Functions DevOps
 OAuth Automation Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Latency Optimization WebSockets Dream big and dare to fail.
 The only way to do great work is to love what you do. Database WebSockets Innovation distinguishes between a leader and a follower. IoT API Performance
+Containerization Do what you love and the money will follow. OAuth Cloud Functions Work hard in silence, let your success be your noise. Logging Sharding Performance Virtual Machines Edge Computing
