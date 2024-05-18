@@ -22,3 +22,4 @@ Data Science Event-driven Architecture Stay hungry, stay foolish. Deployment Rab
 If you can dream it, you can do it. Containerization JWT IoT Algorithm Database Logging Zero Downtime Deployment Testing Big Data Kafka Success is not in what you have, but who you are.
 DevOps If you can dream it, you can do it. Database Logging Event-driven Architecture Cloud Big Data Do what you love and the money will follow. Container Orchestration Containerization Docker API Gateway Zero Downtime Deployment
 Latency Optimization Message Queue Framework Database Docker Predictive Analytics
+Success usually comes to those who are too busy to be looking for it. Cloud Difficult roads often lead to beautiful destinations. Python Version Control Neural Networks
