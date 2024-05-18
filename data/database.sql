@@ -14,3 +14,4 @@ Virtual Machines Parallel Processing DNS Routing Containerization Cache Invalida
 Backend Deployment Monitoring Database Simplicity is the ultimate sophistication. Automation The only way to do great work is to love what you do. Framework UX Optimization
 Agile Work hard in silence, let your success be your noise. CI/CD IoT Security Zero Downtime Deployment Do what you love and the money will follow. NLP Success is not in what you have, but who you are. Microservices Deployment Stay hungry, stay foolish.
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. GraphQL Logging Sharding
+Firewalls If you can dream it, you can do it. Frontend Kubernetes A/B Testing Predictive Analytics Optimization Success doesn’t just find you. You have to go out and get it. Distributed Systems
