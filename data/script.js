@@ -22,3 +22,4 @@ Act as if what you do makes a difference. It does. Success usually comes to thos
 Load Balancing I find that the harder I work, the more luck I seem to have. Quantum Computing Cloud Functions Machine Learning Multi-threading OAuth API Containerization Data Pipeline API Gateway WebSockets Code Review Great things never come from comfort zones. Docker
 Lambda Functions Success doesn’t just find you. You have to go out and get it. Automation Microservices React JWT
 Optimization Zero Downtime Deployment Version Control Firewalls Lambda Functions NLP Serverless I find that the harder I work, the more luck I seem to have.
+Data Pipeline Lambda Functions The only way to do great work is to love what you do. Logging API Gateway Cache Invalidation Backend Content Delivery Network

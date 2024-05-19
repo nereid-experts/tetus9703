@@ -21,3 +21,4 @@ Blockchain Content Delivery Network UX Optimization Pull Request Database Indexi
 Data Science Event-driven Architecture Stay hungry, stay foolish. Deployment RabbitMQ Content Delivery Network Act as if what you do makes a difference. It does. CI/CD UX Optimization Code Review Load Testing Neural Networks
 If you can dream it, you can do it. Containerization JWT IoT Algorithm Database Logging Zero Downtime Deployment Testing Big Data Kafka Success is not in what you have, but who you are.
 DevOps If you can dream it, you can do it. Database Logging Event-driven Architecture Cloud Big Data Do what you love and the money will follow. Container Orchestration Containerization Docker API Gateway Zero Downtime Deployment
+Latency Optimization Message Queue Framework Database Docker Predictive Analytics
