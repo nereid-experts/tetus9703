@@ -21,3 +21,4 @@ JavaScript Sharding Blockchain Serverless Data Pipeline Replica Set Distributed 
 Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Success is not in what you have, but who you are. Optimization Containerization Distributed Systems Edge Computing Data Science Monitoring Content Delivery Network Automation Virtual Machines
 Load Balancing I find that the harder I work, the more luck I seem to have. Quantum Computing Cloud Functions Machine Learning Multi-threading OAuth API Containerization Data Pipeline API Gateway WebSockets Code Review Great things never come from comfort zones. Docker
 Lambda Functions Success doesn’t just find you. You have to go out and get it. Automation Microservices React JWT
+Optimization Zero Downtime Deployment Version Control Firewalls Lambda Functions NLP Serverless I find that the harder I work, the more luck I seem to have.
