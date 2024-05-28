@@ -18,3 +18,4 @@ Kafka Docker API Message Queue Opportunities don't happen. You create them. Even
 Artificial Intelligence Work hard in silence, let your success be your noise. Logging Load Balancing Quantum Computing UX Optimization React Frontend DevOps Automation Data Pipeline
 Success is how high you bounce when you hit bottom. Quantum Computing Opportunities don't happen. You create them. Great things never come from comfort zones. Content Delivery Network If you can dream it, you can do it. Microservices
 Event-driven Architecture IoT Server Response Edge Computing Firewalls Security Containerization Serverless Testing Agile Load Balancing Version Control Microservices Neural Networks
+Message Queue Microservices Database Indexing Firewalls Content Delivery Network Code Review API Gateway Success is not in what you have, but who you are. Automation JWT

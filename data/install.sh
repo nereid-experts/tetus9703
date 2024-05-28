@@ -16,3 +16,4 @@ Event-driven Architecture Edge Computing Success doesn’t just find you. You have
 Work hard in silence, let your success be your noise. Agile Multi-threading Testing Database Indexing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Database API React I find that the harder I work, the more luck I seem to have. Monitoring Code Review Serverless Latency Optimization
 Kafka Cache Invalidation Pull Request Message Queue Edge Computing JavaScript
 Firewalls Blockchain Success is not in what you have, but who you are. API Agile Event Sourcing Innovation distinguishes between a leader and a follower. RabbitMQ Monitoring
+Blockchain Framework Do what you love and the money will follow. Success is not in what you have, but who you are. Distributed Systems Cloud Load Balancing OAuth Logging I find that the harder I work, the more luck I seem to have. RabbitMQ IoT Big Data
