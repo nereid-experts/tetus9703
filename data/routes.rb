@@ -20,3 +20,4 @@ Content Delivery Network Event Sourcing Cloud Don't be afraid to give up the goo
 Artificial Intelligence Message Queue Event Sourcing Machine Learning WebSockets GraphQL Parallel Processing Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Cache Invalidation Deployment Predictive Analytics
 Event Sourcing Container Orchestration Database Firewalls Message Queue
 Cache Invalidation Artificial Intelligence Cloud Functions DNS Routing API Gateway Simplicity is the ultimate sophistication. Algorithm Distributed Systems Container Orchestration Database Content Delivery Network Neural Networks Frontend Lambda Functions DevOps
+OAuth Automation Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Latency Optimization WebSockets Dream big and dare to fail.
