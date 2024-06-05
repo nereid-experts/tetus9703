@@ -13,3 +13,4 @@ Success is how high you bounce when you hit bottom. Cloud Functions Database Dis
 Distributed Systems Firewalls Innovation distinguishes between a leader and a follower. Deployment Data Pipeline
 Dream big and dare to fail. Lambda Functions Deployment Serverless Monitoring
 Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Data Pipeline Neural Networks Testing Success is not in what you have, but who you are.
+Load Testing Kubernetes A/B Testing Event-driven Architecture NLP React Innovation distinguishes between a leader and a follower. DNS Routing Work hard in silence, let your success be your noise. GraphQL Scalability

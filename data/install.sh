@@ -15,3 +15,4 @@ Firewalls Distributed Systems Monitoring Lambda Functions Simplicity is the ulti
 Event-driven Architecture Edge Computing Success doesn’t just find you. You have to go out and get it. Frontend Machine Learning DevOps Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. CI/CD A/B Testing React
 Work hard in silence, let your success be your noise. Agile Multi-threading Testing Database Indexing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Database API React I find that the harder I work, the more luck I seem to have. Monitoring Code Review Serverless Latency Optimization
 Kafka Cache Invalidation Pull Request Message Queue Edge Computing JavaScript
+Firewalls Blockchain Success is not in what you have, but who you are. API Agile Event Sourcing Innovation distinguishes between a leader and a follower. RabbitMQ Monitoring
