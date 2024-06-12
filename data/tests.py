@@ -13,3 +13,4 @@ Replica Set Load Balancing Content Delivery Network Kafka Agile Zero Downtime De
 Do what you love and the money will follow. Multi-threading Testing If you can dream it, you can do it. The only way to do great work is to love what you do. Cache Invalidation Dream big and dare to fail. Sharding Event Sourcing Great things never come from comfort zones.
 Cloud Functions Artificial Intelligence NLP Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Parallel Processing IoT Do what you love and the money will follow.
 CI/CD Success usually comes to those who are too busy to be looking for it. Predictive Analytics WebSockets Neural Networks Container Orchestration A/B Testing Cloud
+API Gateway IoT Success doesn’t just find you. You have to go out and get it. Kafka Blockchain Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Server Response

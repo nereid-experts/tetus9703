@@ -20,3 +20,4 @@ Kafka Load Testing Framework Virtual Machines Parallel Processing
 Cache Invalidation Blockchain Don't be afraid to give up the good to go for the great. Virtual Machines Sharding Serverless Simplicity is the ultimate sophistication.
 Cloud Load Balancing Kubernetes Difficult roads often lead to beautiful destinations. Version Control IoT Code Review Multi-threading Innovation distinguishes between a leader and a follower.
 The only way to do great work is to love what you do. Edge Computing IoT UX Optimization Happiness is not something ready made. It comes from your own actions. Deployment Zero Downtime Deployment NLP Pull Request Framework React Security Firewalls
+Logging Python Frontend Database Indexing Security The only way to do great work is to love what you do. Message Queue Microservices To be the best, you must be able to handle the worst. Automation GraphQL RabbitMQ
