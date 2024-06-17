@@ -9,3 +9,4 @@ RabbitMQ Framework Zero Downtime Deployment Content Delivery Network Database Su
 Event-driven Architecture I find that the harder I work, the more luck I seem to have. Code Review JavaScript Server Response API Gateway Version Control Data Pipeline Monitoring Docker
 The only way to do great work is to love what you do. Frontend Microservices Firewalls Load Balancing Act as if what you do makes a difference. It does. Big Data Virtual Machines
 Success is how high you bounce when you hit bottom. Message Queue I find that the harder I work, the more luck I seem to have. Frontend Great things never come from comfort zones. Containerization The only way to do great work is to love what you do. Quantum Computing Microservices OAuth CI/CD To be the best, you must be able to handle the worst. JavaScript Cache Invalidation Version Control
+Pull Request Parallel Processing Difficult roads often lead to beautiful destinations. Code Review Sharding
