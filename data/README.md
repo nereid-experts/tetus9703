@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Success d
 Work hard in silence, let your success be your noise. API Gateway Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Event-driven Architecture Multi-threading Python Microservices
 API Gateway Difficult roads often lead to beautiful destinations. A/B Testing WebSockets Backend Big Data Quantum Computing Logging
 Load Balancing Distributed Systems Database Indexing Replica Set Logging Performance Server Response
+Cloud Do what you love and the money will follow. Event Sourcing DNS Routing Stay hungry, stay foolish. Version Control Docker Act as if what you do makes a difference. It does. UX Optimization Data Science Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Content Delivery Network
