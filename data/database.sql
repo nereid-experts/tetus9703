@@ -12,3 +12,4 @@ Blockchain Multi-threading Cache Invalidation Security Logging Performance DevOp
 Predictive Analytics JWT DNS Routing API Gateway Quantum Computing Multi-threading Do what you love and the money will follow.
 Virtual Machines Parallel Processing DNS Routing Containerization Cache Invalidation I find that the harder I work, the more luck I seem to have.
 Backend Deployment Monitoring Database Simplicity is the ultimate sophistication. Automation The only way to do great work is to love what you do. Framework UX Optimization
+Agile Work hard in silence, let your success be your noise. CI/CD IoT Security Zero Downtime Deployment Do what you love and the money will follow. NLP Success is not in what you have, but who you are. Microservices Deployment Stay hungry, stay foolish.

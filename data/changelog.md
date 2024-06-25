@@ -19,3 +19,4 @@ Happiness is not something ready made. It comes from your own actions. Success d
 WebSockets Success is not in what you have, but who you are. Artificial Intelligence Database Container Orchestration Sharding Predictive Analytics
 Blockchain Content Delivery Network UX Optimization Pull Request Database Indexing Docker Performance Happiness is not something ready made. It comes from your own actions.
 Data Science Event-driven Architecture Stay hungry, stay foolish. Deployment RabbitMQ Content Delivery Network Act as if what you do makes a difference. It does. CI/CD UX Optimization Code Review Load Testing Neural Networks
+If you can dream it, you can do it. Containerization JWT IoT Algorithm Database Logging Zero Downtime Deployment Testing Big Data Kafka Success is not in what you have, but who you are.
