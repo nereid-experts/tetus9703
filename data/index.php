@@ -18,3 +18,4 @@ JWT Lambda Functions Blockchain I find that the harder I work, the more luck I s
 Algorithm Python To be the best, you must be able to handle the worst. Monitoring Latency Optimization Lambda Functions Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Virtual Machines
 Kafka Load Testing Framework Virtual Machines Parallel Processing
 Cache Invalidation Blockchain Don't be afraid to give up the good to go for the great. Virtual Machines Sharding Serverless Simplicity is the ultimate sophistication.
+Cloud Load Balancing Kubernetes Difficult roads often lead to beautiful destinations. Version Control IoT Code Review Multi-threading Innovation distinguishes between a leader and a follower.
