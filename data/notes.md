@@ -14,3 +14,4 @@ DNS Routing Artificial Intelligence DevOps Edge Computing Load Balancing GraphQL
 Scalability Simplicity is the ultimate sophistication. Big Data Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. A/B Testing GraphQL Latency Optimization
 Agile Content Delivery Network Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. CI/CD Container Orchestration Predictive Analytics DevOps Artificial Intelligence Database Indexing UX Optimization
 Event-driven Architecture Database Indexing Difficult roads often lead to beautiful destinations. Neural Networks Container Orchestration Latency Optimization Cache Invalidation JavaScript Algorithm
+Container Orchestration Firewalls Data Science Event Sourcing A/B Testing Cloud Functions Load Balancing Multi-threading
