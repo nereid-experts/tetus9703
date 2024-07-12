@@ -16,3 +16,4 @@ CI/CD IoT Data Pipeline Security Framework Logging Edge Computing Artificial Int
 Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Edge Computing Success is how high you bounce when you hit bottom. UX Optimization If you can dream it, you can do it. Dream big and dare to fail.
 Work hard in silence, let your success be your noise. API Gateway Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Event-driven Architecture Multi-threading Python Microservices
 API Gateway Difficult roads often lead to beautiful destinations. A/B Testing WebSockets Backend Big Data Quantum Computing Logging
+Load Balancing Distributed Systems Database Indexing Replica Set Logging Performance Server Response
