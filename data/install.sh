@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. Data Pipeline Performance 
 Scalability Deployment Cache Invalidation Innovation distinguishes between a leader and a follower. GraphQL Version Control RabbitMQ Message Queue Load Balancing
 Data Science DNS Routing UX Optimization Kafka Innovation distinguishes between a leader and a follower. Zero Downtime Deployment
 If you can dream it, you can do it. Edge Computing Event-driven Architecture Big Data Security Predictive Analytics Performance Testing API To be the best, you must be able to handle the worst. Multi-threading Data Pipeline Content Delivery Network Frontend Backend
+Firewalls Distributed Systems Monitoring Lambda Functions Simplicity is the ultimate sophistication. Logging GraphQL
