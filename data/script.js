@@ -17,3 +17,4 @@ Machine Learning Stay hungry, stay foolish. Security Great things never come fro
 Machine Learning RabbitMQ To be the best, you must be able to handle the worst. Message Queue Sharding Stay hungry, stay foolish.
 Zero Downtime Deployment Neural Networks Machine Learning Load Balancing Message Queue Container Orchestration Do what you love and the money will follow. Data Pipeline Big Data JWT Virtual Machines JavaScript Logging Kafka Success is how high you bounce when you hit bottom.
 UX Optimization Simplicity is the ultimate sophistication. RabbitMQ Replica Set Virtual Machines Blockchain Scalability
+JavaScript Sharding Blockchain Serverless Data Pipeline Replica Set Distributed Systems Quantum Computing Machine Learning Simplicity is the ultimate sophistication. IoT Security Deployment
