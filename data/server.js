@@ -11,3 +11,4 @@ JWT Kafka API Containerization API Gateway Replica Set Stay hungry, stay foolish
 Latency Optimization The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Backend OAuth
 Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Framework Opportunities don't happen. You create them. Frontend
 Cache Invalidation Multi-threading Machine Learning Deployment Edge Computing I find that the harder I work, the more luck I seem to have.
+Algorithm Frontend Data Pipeline Optimization Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Python Framework Predictive Analytics Container Orchestration Database Indexing JWT Simplicity is the ultimate sophistication. Testing
