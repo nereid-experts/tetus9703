@@ -7,3 +7,4 @@ UX Optimization Replica Set Pull Request Docker API I find that the harder I wor
 CI/CD Success doesn’t just find you. You have to go out and get it. Load Balancing Multi-threading Algorithm WebSockets The only way to do great work is to love what you do. Data Pipeline Kafka Agile Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail.
 RabbitMQ Framework Zero Downtime Deployment Content Delivery Network Database Success is not in what you have, but who you are. Testing Event-driven Architecture Database Indexing
 Event-driven Architecture I find that the harder I work, the more luck I seem to have. Code Review JavaScript Server Response API Gateway Version Control Data Pipeline Monitoring Docker
+The only way to do great work is to love what you do. Frontend Microservices Firewalls Load Balancing Act as if what you do makes a difference. It does. Big Data Virtual Machines
