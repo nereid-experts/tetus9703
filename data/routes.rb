@@ -16,3 +16,4 @@ JavaScript OAuth Predictive Analytics API Gateway DNS Routing Frontend Monitorin
 Version Control JWT Latency Optimization Blockchain UX Optimization Server Response Container Orchestration Don't be afraid to give up the good to go for the great.
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Optimization Frontend The only way to do great work is to love what you do. React Agile Automation
 Testing Load Testing Database Frontend Predictive Analytics Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Automation
+Content Delivery Network Event Sourcing Cloud Don't be afraid to give up the good to go for the great. Load Balancing Framework I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Lambda Functions Innovation distinguishes between a leader and a follower. Database Security IoT
