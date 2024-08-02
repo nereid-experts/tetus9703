@@ -17,3 +17,4 @@ Opportunities don't happen. You create them. Serverless OAuth Content Delivery N
 Data Science Edge Computing Latency Optimization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Containerization GraphQL API Gateway Kubernetes Cloud Functions Scalability Work hard in silence, let your success be your noise.
 JWT Cloud Functions Act as if what you do makes a difference. It does. RabbitMQ Deployment Multi-threading Backend Neural Networks Lambda Functions Data Pipeline API Gateway Performance Logging Edge Computing Kubernetes
 Load Testing Do what you love and the money will follow. Version Control Cache Invalidation If you can dream it, you can do it. Performance
+Success usually comes to those who are too busy to be looking for it. DNS Routing Data Pipeline Event Sourcing Work hard in silence, let your success be your noise. React
