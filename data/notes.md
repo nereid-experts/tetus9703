@@ -11,3 +11,4 @@ A/B Testing Innovation distinguishes between a leader and a follower. Framework 
 Replica Set Kafka Machine Learning Data Pipeline RabbitMQ Dream big and dare to fail. GraphQL Algorithm
 Monitoring JavaScript Success is not in what you have, but who you are. Frontend A/B Testing Act as if what you do makes a difference. It does. IoT If you can dream it, you can do it. Machine Learning Virtual Machines Artificial Intelligence API Gateway Event Sourcing Serverless Success doesn’t just find you. You have to go out and get it.
 DNS Routing Artificial Intelligence DevOps Edge Computing Load Balancing GraphQL Parallel Processing Difficult roads often lead to beautiful destinations. Big Data JavaScript
+Scalability Simplicity is the ultimate sophistication. Big Data Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. A/B Testing GraphQL Latency Optimization

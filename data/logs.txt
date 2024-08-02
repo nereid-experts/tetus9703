@@ -11,3 +11,4 @@ Virtual Machines Event-driven Architecture Framework CI/CD Scalability Distribut
 Python Kubernetes Pull Request Innovation distinguishes between a leader and a follower. Data Science Great things never come from comfort zones. Frontend Cloud Act as if what you do makes a difference. It does. Neural Networks Artificial Intelligence Message Queue I find that the harder I work, the more luck I seem to have. Virtual Machines
 Event Sourcing Automation OAuth DevOps Monitoring
 Quantum Computing React Parallel Processing Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Scalability CI/CD Framework
+Automation Containerization Performance Data Science Agile WebSockets Big Data Success doesn’t just find you. You have to go out and get it. Kafka Success is how high you bounce when you hit bottom. Content Delivery Network Python Blockchain Artificial Intelligence
