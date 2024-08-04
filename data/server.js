@@ -9,3 +9,4 @@ Testing Zero Downtime Deployment Framework Container Orchestration Great things 
 CI/CD Dream big and dare to fail. Blockchain Logging Python The only way to do great work is to love what you do. Machine Learning Zero Downtime Deployment
 JWT Kafka API Containerization API Gateway Replica Set Stay hungry, stay foolish. Virtual Machines Quantum Computing Load Balancing Innovation distinguishes between a leader and a follower. Scalability Success doesn’t just find you. You have to go out and get it. Performance Security
 Latency Optimization The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Backend OAuth
+Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Framework Opportunities don't happen. You create them. Frontend
