@@ -9,3 +9,4 @@ Testing Dream big and dare to fail. Machine Learning Predictive Analytics Data P
 Serverless If you can dream it, you can do it. Pull Request Distributed Systems Latency Optimization Zero Downtime Deployment Content Delivery Network JavaScript
 To be the best, you must be able to handle the worst. Data Pipeline Performance Agile Automation Algorithm Don't be afraid to give up the good to go for the great. WebSockets Load Testing Multi-threading
 Scalability Deployment Cache Invalidation Innovation distinguishes between a leader and a follower. GraphQL Version Control RabbitMQ Message Queue Load Balancing
+Data Science DNS Routing UX Optimization Kafka Innovation distinguishes between a leader and a follower. Zero Downtime Deployment
