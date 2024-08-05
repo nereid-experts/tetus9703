@@ -17,3 +17,4 @@ IoT Automation DevOps Firewalls Security Data Pipeline Logging Don't be afraid t
 Version Control Predictive Analytics Difficult roads often lead to beautiful destinations. Edge Computing Deployment Dream big and dare to fail.
 Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Pull Request Zero Downtime Deployment JavaScript Big Data UX Optimization Stay hungry, stay foolish. OAuth API Gateway Quantum Computing Containerization Agile
 WebSockets Success is not in what you have, but who you are. Artificial Intelligence Database Container Orchestration Sharding Predictive Analytics
+Blockchain Content Delivery Network UX Optimization Pull Request Database Indexing Docker Performance Happiness is not something ready made. It comes from your own actions.
