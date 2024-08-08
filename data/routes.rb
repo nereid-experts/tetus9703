@@ -15,3 +15,4 @@ Firewalls Cache Invalidation Containerization Machine Learning Event-driven Arch
 JavaScript OAuth Predictive Analytics API Gateway DNS Routing Frontend Monitoring Big Data Dream big and dare to fail.
 Version Control JWT Latency Optimization Blockchain UX Optimization Server Response Container Orchestration Don't be afraid to give up the good to go for the great.
 Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Optimization Frontend The only way to do great work is to love what you do. React Agile Automation
+Testing Load Testing Database Frontend Predictive Analytics Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Automation

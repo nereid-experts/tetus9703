@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. Big Data Content Delivery Net
 Simplicity is the ultimate sophistication. Kubernetes Testing Agile Difficult roads often lead to beautiful destinations. Load Balancing
 Framework Deployment DevOps Logging Testing Container Orchestration Virtual Machines Security Opportunities don't happen. You create them. Artificial Intelligence Backend Event-driven Architecture Quantum Computing Multi-threading
 JWT Lambda Functions Blockchain I find that the harder I work, the more luck I seem to have. OAuth Happiness is not something ready made. It comes from your own actions.
+Algorithm Python To be the best, you must be able to handle the worst. Monitoring Latency Optimization Lambda Functions Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Virtual Machines
