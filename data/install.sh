@@ -8,3 +8,4 @@ OAuth Event Sourcing Automation Code Review Data Pipeline Testing Don't be afrai
 Testing Dream big and dare to fail. Machine Learning Predictive Analytics Data Pipeline Difficult roads often lead to beautiful destinations. Zero Downtime Deployment API OAuth Success doesn’t just find you. You have to go out and get it. Framework CI/CD Replica Set Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Serverless If you can dream it, you can do it. Pull Request Distributed Systems Latency Optimization Zero Downtime Deployment Content Delivery Network JavaScript
 To be the best, you must be able to handle the worst. Data Pipeline Performance Agile Automation Algorithm Don't be afraid to give up the good to go for the great. WebSockets Load Testing Multi-threading
+Scalability Deployment Cache Invalidation Innovation distinguishes between a leader and a follower. GraphQL Version Control RabbitMQ Message Queue Load Balancing

@@ -16,3 +16,4 @@ Opportunities don't happen. You create them. Distributed Systems API UX Optimiza
 GraphQL Algorithm Big Data Distributed Systems Edge Computing
 Agile Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Distributed Systems Backend
 Content Delivery Network Agile Event Sourcing Security Blockchain
+Cache Invalidation NLP Predictive Analytics Event Sourcing Microservices Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Algorithm IoT Content Delivery Network I find that the harder I work, the more luck I seem to have. Pull Request Blockchain React
