@@ -9,3 +9,4 @@ DNS Routing Latency Optimization DevOps A/B Testing Great things never come from
 Firewalls React WebSockets Multi-threading A/B Testing
 Kubernetes Event-driven Architecture Sharding Microservices Frontend To be the best, you must be able to handle the worst. Distributed Systems Backend Python CI/CD Agile Scalability Replica Set Success is not in what you have, but who you are. If you can dream it, you can do it.
 Event-driven Architecture OAuth Database Performance Version Control
+Replica Set Load Balancing Content Delivery Network Kafka Agile Zero Downtime Deployment Act as if what you do makes a difference. It does. Virtual Machines Happiness is not something ready made. It comes from your own actions.
