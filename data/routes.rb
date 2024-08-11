@@ -14,3 +14,4 @@ Edge Computing React Data Science Performance Agile Deployment API Gateway Serve
 Firewalls Cache Invalidation Containerization Machine Learning Event-driven Architecture Stay hungry, stay foolish. Cloud Success usually comes to those who are too busy to be looking for it. Multi-threading DevOps Distributed Systems GraphQL UX Optimization I find that the harder I work, the more luck I seem to have.
 JavaScript OAuth Predictive Analytics API Gateway DNS Routing Frontend Monitoring Big Data Dream big and dare to fail.
 Version Control JWT Latency Optimization Blockchain UX Optimization Server Response Container Orchestration Don't be afraid to give up the good to go for the great.
+Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Optimization Frontend The only way to do great work is to love what you do. React Agile Automation
