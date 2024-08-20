@@ -7,3 +7,4 @@ Content Delivery Network Agile NLP Data Pipeline Scalability Difficult roads oft
 Simplicity is the ultimate sophistication. Latency Optimization Monitoring Virtual Machines Cloud Database Indexing Data Science Opportunities don't happen. You create them.
 Testing Zero Downtime Deployment Framework Container Orchestration Great things never come from comfort zones. Replica Set
 CI/CD Dream big and dare to fail. Blockchain Logging Python The only way to do great work is to love what you do. Machine Learning Zero Downtime Deployment
+JWT Kafka API Containerization API Gateway Replica Set Stay hungry, stay foolish. Virtual Machines Quantum Computing Load Balancing Innovation distinguishes between a leader and a follower. Scalability Success doesn’t just find you. You have to go out and get it. Performance Security
