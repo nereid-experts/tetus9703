@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Testing DNS Routing Database Indexing JavaScript Inno
 I find that the harder I work, the more luck I seem to have. Server Response Deployment Version Control Microservices Performance Algorithm CI/CD Quantum Computing Monitoring A/B Testing
 Act as if what you do makes a difference. It does. Big Data Content Delivery Network DevOps Event Sourcing GraphQL Code Review Data Pipeline CI/CD Load Balancing Data Science NLP Version Control Do what you love and the money will follow. Cache Invalidation
 Simplicity is the ultimate sophistication. Kubernetes Testing Agile Difficult roads often lead to beautiful destinations. Load Balancing
+Framework Deployment DevOps Logging Testing Container Orchestration Virtual Machines Security Opportunities don't happen. You create them. Artificial Intelligence Backend Event-driven Architecture Quantum Computing Multi-threading
