@@ -15,3 +15,4 @@ Deployment Sharding WebSockets JavaScript Code Review Backend
 Event Sourcing Cloud Dream big and dare to fail. Framework Success is how high you bounce when you hit bottom. Pull Request Neural Networks Testing
 Opportunities don't happen. You create them. Serverless OAuth Content Delivery Network JavaScript Lambda Functions Zero Downtime Deployment Predictive Analytics Distributed Systems Performance Big Data
 Data Science Edge Computing Latency Optimization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Containerization GraphQL API Gateway Kubernetes Cloud Functions Scalability Work hard in silence, let your success be your noise.
+JWT Cloud Functions Act as if what you do makes a difference. It does. RabbitMQ Deployment Multi-threading Backend Neural Networks Lambda Functions Data Pipeline API Gateway Performance Logging Edge Computing Kubernetes
