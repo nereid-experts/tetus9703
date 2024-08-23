@@ -13,3 +13,4 @@ Content Delivery Network Virtual Machines Event-driven Architecture Cache Invali
 JavaScript Server Response Parallel Processing Version Control Backend Security
 Monitoring Optimization Framework Cloud Functions Big Data Backend Multi-threading Success usually comes to those who are too busy to be looking for it. CI/CD
 Message Queue Load Balancing Data Pipeline Multi-threading Serverless Virtual Machines RabbitMQ DNS Routing CI/CD JavaScript Lambda Functions Replica Set To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. WebSockets
+Happiness is not something ready made. It comes from your own actions. Blockchain Performance Framework Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower.

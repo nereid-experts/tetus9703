@@ -13,3 +13,4 @@ Database Indexing Neural Networks Don't be afraid to give up the good to go for 
 Kafka Cloud RabbitMQ Container Orchestration Kubernetes Neural Networks Algorithm Database Indexing Replica Set Lambda Functions Latency Optimization Microservices
 Don't be afraid to give up the good to go for the great. DNS Routing To be the best, you must be able to handle the worst. Monitoring Load Balancing Virtual Machines Docker Security Optimization I find that the harder I work, the more luck I seem to have. Framework IoT Success is not in what you have, but who you are. DevOps Deployment
 Docker Machine Learning Firewalls Event-driven Architecture DNS Routing
+IoT Automation DevOps Firewalls Security Data Pipeline Logging Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. JavaScript To be the best, you must be able to handle the worst. DNS Routing Big Data Monitoring Python
