@@ -11,3 +11,4 @@ Firewalls Testing Latency Optimization Docker Monitoring Cloud Python Big Data D
 Act as if what you do makes a difference. It does. Edge Computing If you can dream it, you can do it. Parallel Processing Neural Networks OAuth Serverless Quantum Computing Big Data Sharding CI/CD
 Content Delivery Network Virtual Machines Event-driven Architecture Cache Invalidation Big Data Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Predictive Analytics Algorithm Blockchain Innovation distinguishes between a leader and a follower.
 JavaScript Server Response Parallel Processing Version Control Backend Security
+Monitoring Optimization Framework Cloud Functions Big Data Backend Multi-threading Success usually comes to those who are too busy to be looking for it. CI/CD

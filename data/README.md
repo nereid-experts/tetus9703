@@ -12,3 +12,4 @@ Success is not in what you have, but who you are. Code Review UX Optimization Da
 Lambda Functions Optimization Docker Event-driven Architecture Database Indexing Message Queue
 Dream big and dare to fail. Replica Set API Gateway Performance Distributed Systems
 JWT Content Delivery Network Success is how high you bounce when you hit bottom. CI/CD Database
+CI/CD IoT Data Pipeline Security Framework Logging Edge Computing Artificial Intelligence Container Orchestration Load Testing
