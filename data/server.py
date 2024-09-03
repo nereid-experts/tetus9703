@@ -14,3 +14,4 @@ IoT Virtual Machines Cloud Replica Set Containerization Kubernetes Parallel Proc
 Virtual Machines If you can dream it, you can do it. Data Science Event Sourcing Sharding UX Optimization Monitoring Kubernetes Security Parallel Processing Difficult roads often lead to beautiful destinations. Logging The only way to do great work is to love what you do.
 Monitoring CI/CD DevOps Microservices Database Containerization Serverless Latency Optimization DNS Routing Server Response
 Success usually comes to those who are too busy to be looking for it. WebSockets Server Response CI/CD If you can dream it, you can do it. Python Logging Code Review Virtual Machines Container Orchestration DevOps Opportunities don't happen. You create them.
+Kafka Docker API Message Queue Opportunities don't happen. You create them. Event Sourcing Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. DNS Routing DevOps Virtual Machines
