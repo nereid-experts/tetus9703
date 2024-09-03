@@ -11,3 +11,4 @@ Virtual Machines Event Sourcing JavaScript Data Pipeline Cloud Zero Downtime Dep
 Event-driven Architecture UX Optimization Multi-threading DNS Routing Quantum Computing Work hard in silence, let your success be your noise. Optimization Container Orchestration Blockchain JWT Artificial Intelligence Content Delivery Network React Security Microservices
 Success is how high you bounce when you hit bottom. Cloud Functions Database Distributed Systems React Great things never come from comfort zones. Artificial Intelligence Big Data Algorithm GraphQL Success is not in what you have, but who you are. Kafka Success usually comes to those who are too busy to be looking for it. Load Balancing
 Distributed Systems Firewalls Innovation distinguishes between a leader and a follower. Deployment Data Pipeline
+Dream big and dare to fail. Lambda Functions Deployment Serverless Monitoring
