@@ -7,3 +7,4 @@ Load Testing Containerization Database Load Balancing Multi-threading Cache Inva
 Automation Edge Computing Do what you love and the money will follow. Predictive Analytics A/B Testing Replica Set
 DNS Routing Latency Optimization DevOps A/B Testing Great things never come from comfort zones. Machine Learning
 Firewalls React WebSockets Multi-threading A/B Testing
+Kubernetes Event-driven Architecture Sharding Microservices Frontend To be the best, you must be able to handle the worst. Distributed Systems Backend Python CI/CD Agile Scalability Replica Set Success is not in what you have, but who you are. If you can dream it, you can do it.
