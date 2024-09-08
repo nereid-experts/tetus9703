@@ -9,3 +9,4 @@ Scalability Act as if what you do makes a difference. It does. Event-driven Arch
 Big Data Logging Machine Learning RabbitMQ Innovation distinguishes between a leader and a follower. Docker Stay hungry, stay foolish. WebSockets
 A/B Testing Innovation distinguishes between a leader and a follower. Framework Code Review Success doesn’t just find you. You have to go out and get it. GraphQL Message Queue Zero Downtime Deployment Firewalls Edge Computing Algorithm Content Delivery Network Cloud JavaScript NLP
 Replica Set Kafka Machine Learning Data Pipeline RabbitMQ Dream big and dare to fail. GraphQL Algorithm
+Monitoring JavaScript Success is not in what you have, but who you are. Frontend A/B Testing Act as if what you do makes a difference. It does. IoT If you can dream it, you can do it. Machine Learning Virtual Machines Artificial Intelligence API Gateway Event Sourcing Serverless Success doesn’t just find you. You have to go out and get it.
