@@ -15,3 +15,4 @@ Distributed Systems Simplicity is the ultimate sophistication. Latency Optimizat
 Opportunities don't happen. You create them. Distributed Systems API UX Optimization Logging Blockchain Backend Artificial Intelligence Load Testing RabbitMQ
 GraphQL Algorithm Big Data Distributed Systems Edge Computing
 Agile Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Distributed Systems Backend
+Content Delivery Network Agile Event Sourcing Security Blockchain
