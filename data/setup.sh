@@ -14,3 +14,4 @@ Lambda Functions Success doesn’t just find you. You have to go out and get it. O
 Distributed Systems Simplicity is the ultimate sophistication. Latency Optimization GraphQL Database Sharding Cache Invalidation Python Kafka
 Opportunities don't happen. You create them. Distributed Systems API UX Optimization Logging Blockchain Backend Artificial Intelligence Load Testing RabbitMQ
 GraphQL Algorithm Big Data Distributed Systems Edge Computing
+Agile Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Distributed Systems Backend

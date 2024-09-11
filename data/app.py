@@ -9,3 +9,4 @@ Load Testing Data Science The only way to do great work is to love what you do. 
 Performance Act as if what you do makes a difference. It does. Event Sourcing Virtual Machines WebSockets
 Firewalls Testing Latency Optimization Docker Monitoring Cloud Python Big Data Database Indexing Deployment Scalability Replica Set Backend Content Delivery Network RabbitMQ
 Act as if what you do makes a difference. It does. Edge Computing If you can dream it, you can do it. Parallel Processing Neural Networks OAuth Serverless Quantum Computing Big Data Sharding CI/CD
+Content Delivery Network Virtual Machines Event-driven Architecture Cache Invalidation Big Data Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Predictive Analytics Algorithm Blockchain Innovation distinguishes between a leader and a follower.
