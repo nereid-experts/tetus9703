@@ -8,3 +8,4 @@ Microservices API Stay hungry, stay foolish. Kubernetes To be the best, you must
 Scalability Act as if what you do makes a difference. It does. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Message Queue API Event Sourcing Agile Load Testing Success is how high you bounce when you hit bottom.
 Big Data Logging Machine Learning RabbitMQ Innovation distinguishes between a leader and a follower. Docker Stay hungry, stay foolish. WebSockets
 A/B Testing Innovation distinguishes between a leader and a follower. Framework Code Review Success doesn’t just find you. You have to go out and get it. GraphQL Message Queue Zero Downtime Deployment Firewalls Edge Computing Algorithm Content Delivery Network Cloud JavaScript NLP
+Replica Set Kafka Machine Learning Data Pipeline RabbitMQ Dream big and dare to fail. GraphQL Algorithm

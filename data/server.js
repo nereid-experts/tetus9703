@@ -5,3 +5,4 @@ Python I find that the harder I work, the more luck I seem to have. CI/CD Latenc
 Algorithm Microservices Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Database Indexing React Pull Request OAuth Kubernetes Success doesn’t just find you. You have to go out and get it. API
 Content Delivery Network Agile NLP Data Pipeline Scalability Difficult roads often lead to beautiful destinations. Virtual Machines Artificial Intelligence DevOps The only way to do great work is to love what you do. Load Balancing Version Control Database Indexing
 Simplicity is the ultimate sophistication. Latency Optimization Monitoring Virtual Machines Cloud Database Indexing Data Science Opportunities don't happen. You create them.
+Testing Zero Downtime Deployment Framework Container Orchestration Great things never come from comfort zones. Replica Set
