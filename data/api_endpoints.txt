@@ -12,3 +12,4 @@ Kafka Serverless NLP Work hard in silence, let your success be your noise. WebSo
 Pull Request Performance OAuth Automation IoT Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Database Indexing Sharding Distributed Systems Version Control DevOps
 Big Data Event-driven Architecture Sharding Microservices Edge Computing UX Optimization Quantum Computing Virtual Machines Database Indexing Testing Neural Networks Zero Downtime Deployment
 Deployment Sharding WebSockets JavaScript Code Review Backend
+Event Sourcing Cloud Dream big and dare to fail. Framework Success is how high you bounce when you hit bottom. Pull Request Neural Networks Testing
