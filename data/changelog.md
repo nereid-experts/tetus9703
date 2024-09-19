@@ -12,3 +12,4 @@ JavaScript Security Zero Downtime Deployment Sharding Data Pipeline Virtual Mach
 Database Indexing Neural Networks Don't be afraid to give up the good to go for the great. Frontend Act as if what you do makes a difference. It does. Security DNS Routing
 Kafka Cloud RabbitMQ Container Orchestration Kubernetes Neural Networks Algorithm Database Indexing Replica Set Lambda Functions Latency Optimization Microservices
 Don't be afraid to give up the good to go for the great. DNS Routing To be the best, you must be able to handle the worst. Monitoring Load Balancing Virtual Machines Docker Security Optimization I find that the harder I work, the more luck I seem to have. Framework IoT Success is not in what you have, but who you are. DevOps Deployment
+Docker Machine Learning Firewalls Event-driven Architecture DNS Routing
