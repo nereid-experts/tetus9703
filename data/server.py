@@ -12,3 +12,4 @@ Neural Networks Testing API Gateway Latency Optimization Opportunities don't hap
 GraphQL Blockchain Automation Machine Learning Edge Computing Cloud Functions
 IoT Virtual Machines Cloud Replica Set Containerization Kubernetes Parallel Processing I find that the harder I work, the more luck I seem to have. UX Optimization Lambda Functions Frontend DevOps
 Virtual Machines If you can dream it, you can do it. Data Science Event Sourcing Sharding UX Optimization Monitoring Kubernetes Security Parallel Processing Difficult roads often lead to beautiful destinations. Logging The only way to do great work is to love what you do.
+Monitoring CI/CD DevOps Microservices Database Containerization Serverless Latency Optimization DNS Routing Server Response
