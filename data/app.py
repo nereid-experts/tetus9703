@@ -8,3 +8,4 @@ Containerization Scalability UX Optimization Pull Request JavaScript Virtual Mac
 Load Testing Data Science The only way to do great work is to love what you do. Server Response Success usually comes to those who are too busy to be looking for it. Docker Happiness is not something ready made. It comes from your own actions. Version Control
 Performance Act as if what you do makes a difference. It does. Event Sourcing Virtual Machines WebSockets
 Firewalls Testing Latency Optimization Docker Monitoring Cloud Python Big Data Database Indexing Deployment Scalability Replica Set Backend Content Delivery Network RabbitMQ
+Act as if what you do makes a difference. It does. Edge Computing If you can dream it, you can do it. Parallel Processing Neural Networks OAuth Serverless Quantum Computing Big Data Sharding CI/CD
