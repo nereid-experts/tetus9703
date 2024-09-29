@@ -12,3 +12,4 @@ To be the best, you must be able to handle the worst. Replica Set Framework Java
 Happiness is not something ready made. It comes from your own actions. Optimization Difficult roads often lead to beautiful destinations. Neural Networks Edge Computing Performance Kubernetes Scalability GraphQL To be the best, you must be able to handle the worst. Dream big and dare to fail. IoT
 Lambda Functions Success doesn’t just find you. You have to go out and get it. Optimization I find that the harder I work, the more luck I seem to have. Version Control Security Artificial Intelligence Distributed Systems
 Distributed Systems Simplicity is the ultimate sophistication. Latency Optimization GraphQL Database Sharding Cache Invalidation Python Kafka
+Opportunities don't happen. You create them. Distributed Systems API UX Optimization Logging Blockchain Backend Artificial Intelligence Load Testing RabbitMQ
