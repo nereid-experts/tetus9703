@@ -7,3 +7,4 @@ Version Control Server Response Security Algorithm If you can dream it, you can 
 API Content Delivery Network Container Orchestration Kafka Database OAuth Message Queue
 WebSockets Deployment Message Queue Data Science Scalability Opportunities don't happen. You create them. Server Response Algorithm The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Cache Invalidation Load Balancing
 NLP Artificial Intelligence React Simplicity is the ultimate sophistication. DNS Routing RabbitMQ Containerization Don't be afraid to give up the good to go for the great. A/B Testing
+Virtual Machines Event Sourcing JavaScript Data Pipeline Cloud Zero Downtime Deployment Data Science Neural Networks Logging RabbitMQ Database Indexing If you can dream it, you can do it. Sharding Multi-threading
