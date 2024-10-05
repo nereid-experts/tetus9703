@@ -11,3 +11,4 @@ Microservices Security Parallel Processing Scalability Load Balancing
 Edge Computing Don't be afraid to give up the good to go for the great. Cloud Success doesn’t just find you. You have to go out and get it. Firewalls Load Testing DNS Routing Lambda Functions Server Response React Kafka
 Stay hungry, stay foolish. Testing DNS Routing Database Indexing JavaScript Innovation distinguishes between a leader and a follower. Kafka Big Data Blockchain Monitoring Server Response Agile Replica Set Frontend Scalability
 I find that the harder I work, the more luck I seem to have. Server Response Deployment Version Control Microservices Performance Algorithm CI/CD Quantum Computing Monitoring A/B Testing
+Act as if what you do makes a difference. It does. Big Data Content Delivery Network DevOps Event Sourcing GraphQL Code Review Data Pipeline CI/CD Load Balancing Data Science NLP Version Control Do what you love and the money will follow. Cache Invalidation

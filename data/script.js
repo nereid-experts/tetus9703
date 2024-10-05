@@ -11,3 +11,4 @@ Data Pipeline Monitoring Database Indexing Latency Optimization JWT
 WebSockets Data Science Dream big and dare to fail. GraphQL Server Response Monitoring Testing Serverless RabbitMQ Cloud NLP
 WebSockets Content Delivery Network Stay hungry, stay foolish. API Gateway Container Orchestration Python NLP Do what you love and the money will follow. Act as if what you do makes a difference. It does. OAuth
 Opportunities don't happen. You create them. Kubernetes I find that the harder I work, the more luck I seem to have. Sharding Blockchain
+To be the best, you must be able to handle the worst. Load Balancing OAuth IoT Frontend Success usually comes to those who are too busy to be looking for it. React Data Pipeline API Difficult roads often lead to beautiful destinations. Pull Request Cache Invalidation Version Control
