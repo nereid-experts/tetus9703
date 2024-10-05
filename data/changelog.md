@@ -10,3 +10,4 @@ Cloud Functions DNS Routing Parallel Processing DevOps Don't be afraid to give u
 Content Delivery Network Replica Set Zero Downtime Deployment Containerization Great things never come from comfort zones. Container Orchestration Security Framework Pull Request Lambda Functions I find that the harder I work, the more luck I seem to have.
 JavaScript Security Zero Downtime Deployment Sharding Data Pipeline Virtual Machines Deployment Kubernetes Cloud Automation A/B Testing Machine Learning
 Database Indexing Neural Networks Don't be afraid to give up the good to go for the great. Frontend Act as if what you do makes a difference. It does. Security DNS Routing
+Kafka Cloud RabbitMQ Container Orchestration Kubernetes Neural Networks Algorithm Database Indexing Replica Set Lambda Functions Latency Optimization Microservices
