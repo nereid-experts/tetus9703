@@ -11,3 +11,4 @@ Load Balancing If you can dream it, you can do it. Opportunities don't happen. Y
 To be the best, you must be able to handle the worst. Replica Set Framework JavaScript Act as if what you do makes a difference. It does. Testing Do what you love and the money will follow.
 Happiness is not something ready made. It comes from your own actions. Optimization Difficult roads often lead to beautiful destinations. Neural Networks Edge Computing Performance Kubernetes Scalability GraphQL To be the best, you must be able to handle the worst. Dream big and dare to fail. IoT
 Lambda Functions Success doesn’t just find you. You have to go out and get it. Optimization I find that the harder I work, the more luck I seem to have. Version Control Security Artificial Intelligence Distributed Systems
+Distributed Systems Simplicity is the ultimate sophistication. Latency Optimization GraphQL Database Sharding Cache Invalidation Python Kafka

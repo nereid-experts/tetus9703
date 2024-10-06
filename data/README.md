@@ -9,3 +9,4 @@ Data Pipeline Docker API Gateway Dream big and dare to fail. Big Data Success do
 Backend Great things never come from comfort zones. CI/CD React Message Queue Monitoring
 Data Science Database Indexing Stay hungry, stay foolish. NLP JWT Load Balancing Success is not in what you have, but who you are.
 Success is not in what you have, but who you are. Code Review UX Optimization Data Science Zero Downtime Deployment OAuth NLP Container Orchestration Firewalls Containerization RabbitMQ
+Lambda Functions Optimization Docker Event-driven Architecture Database Indexing Message Queue
