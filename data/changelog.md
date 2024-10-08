@@ -8,3 +8,4 @@ If you can dream it, you can do it. Replica Set Neural Networks Event Sourcing A
 Server Response CI/CD Parallel Processing Success usually comes to those who are too busy to be looking for it. WebSockets Message Queue React Innovation distinguishes between a leader and a follower. Artificial Intelligence Do what you love and the money will follow. Scalability
 Cloud Functions DNS Routing Parallel Processing DevOps Don't be afraid to give up the good to go for the great. Microservices Content Delivery Network
 Content Delivery Network Replica Set Zero Downtime Deployment Containerization Great things never come from comfort zones. Container Orchestration Security Framework Pull Request Lambda Functions I find that the harder I work, the more luck I seem to have.
+JavaScript Security Zero Downtime Deployment Sharding Data Pipeline Virtual Machines Deployment Kubernetes Cloud Automation A/B Testing Machine Learning
