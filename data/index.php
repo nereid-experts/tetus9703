@@ -9,3 +9,4 @@ Firewalls CI/CD JavaScript Predictive Analytics Data Pipeline Stay hungry, stay 
 Predictive Analytics Latency Optimization RabbitMQ Virtual Machines WebSockets Framework Cloud Python Multi-threading
 Microservices Security Parallel Processing Scalability Load Balancing
 Edge Computing Don't be afraid to give up the good to go for the great. Cloud Success doesn’t just find you. You have to go out and get it. Firewalls Load Testing DNS Routing Lambda Functions Server Response React Kafka
+Stay hungry, stay foolish. Testing DNS Routing Database Indexing JavaScript Innovation distinguishes between a leader and a follower. Kafka Big Data Blockchain Monitoring Server Response Agile Replica Set Frontend Scalability
