@@ -10,3 +10,4 @@ Great things never come from comfort zones. Blockchain Python Database Indexing 
 WebSockets Neural Networks Testing Content Delivery Network UX Optimization Kubernetes JWT Zero Downtime Deployment Artificial Intelligence Message Queue Machine Learning A/B Testing Blockchain Database Indexing
 Kafka Serverless NLP Work hard in silence, let your success be your noise. WebSockets To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Firewalls Success is how high you bounce when you hit bottom.
 Pull Request Performance OAuth Automation IoT Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Database Indexing Sharding Distributed Systems Version Control DevOps
+Big Data Event-driven Architecture Sharding Microservices Edge Computing UX Optimization Quantum Computing Virtual Machines Database Indexing Testing Neural Networks Zero Downtime Deployment
