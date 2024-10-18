@@ -6,3 +6,4 @@ Server Response Big Data Optimization Agile Event Sourcing Content Delivery Netw
 CI/CD Optimization Machine Learning Serverless Deployment Lambda Functions Kubernetes Backend Data Pipeline WebSockets API Gateway
 Optimization Firewalls Microservices Act as if what you do makes a difference. It does. Cache Invalidation GraphQL Backend Success usually comes to those who are too busy to be looking for it. Event Sourcing
 Security Data Pipeline Container Orchestration Distributed Systems Success usually comes to those who are too busy to be looking for it. Server Response DNS Routing Database Kubernetes IoT Agile I find that the harder I work, the more luck I seem to have. Latency Optimization Data Science Firewalls
+Content Delivery Network Container Orchestration Great things never come from comfort zones. Framework Do what you love and the money will follow. GraphQL Database Indexing

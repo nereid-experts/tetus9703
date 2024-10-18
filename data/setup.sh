@@ -8,3 +8,4 @@ Success doesn’t just find you. You have to go out and get it. Scalability Docker
 Success is not in what you have, but who you are. API IoT Performance If you can dream it, you can do it. Firewalls Docker
 Virtual Machines Content Delivery Network Do what you love and the money will follow. Great things never come from comfort zones. Machine Learning Version Control Event-driven Architecture Kubernetes API Gateway Edge Computing Sharding
 Load Balancing If you can dream it, you can do it. Opportunities don't happen. You create them. IoT Server Response Virtual Machines Cloud Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Agile Docker Python Data Science
+To be the best, you must be able to handle the worst. Replica Set Framework JavaScript Act as if what you do makes a difference. It does. Testing Do what you love and the money will follow.

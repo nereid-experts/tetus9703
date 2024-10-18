@@ -7,3 +7,4 @@ Deployment Artificial Intelligence Content Delivery Network Code Review Stay hun
 Event Sourcing I find that the harder I work, the more luck I seem to have. Multi-threading Docker Blockchain Success doesn’t just find you. You have to go out and get it. DNS Routing WebSockets
 Data Pipeline Docker API Gateway Dream big and dare to fail. Big Data Success doesn’t just find you. You have to go out and get it. UX Optimization Load Balancing Logging If you can dream it, you can do it. Latency Optimization Version Control Security
 Backend Great things never come from comfort zones. CI/CD React Message Queue Monitoring
+Data Science Database Indexing Stay hungry, stay foolish. NLP JWT Load Balancing Success is not in what you have, but who you are.
