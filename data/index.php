@@ -8,3 +8,4 @@ Agile Container Orchestration Python Algorithm Success is not in what you have, 
 Firewalls CI/CD JavaScript Predictive Analytics Data Pipeline Stay hungry, stay foolish.
 Predictive Analytics Latency Optimization RabbitMQ Virtual Machines WebSockets Framework Cloud Python Multi-threading
 Microservices Security Parallel Processing Scalability Load Balancing
+Edge Computing Don't be afraid to give up the good to go for the great. Cloud Success doesn’t just find you. You have to go out and get it. Firewalls Load Testing DNS Routing Lambda Functions Server Response React Kafka
