@@ -11,3 +11,4 @@ Frontend Testing Load Balancing Docker Difficult roads often lead to beautiful d
 Microservices Edge Computing Replica Set Event-driven Architecture NLP API Gateway Containerization
 Blockchain Cloud Functions Work hard in silence, let your success be your noise. UX Optimization Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. CI/CD Load Testing Python
 Edge Computing React Data Science Performance Agile Deployment API Gateway Server Response Load Testing
+Firewalls Cache Invalidation Containerization Machine Learning Event-driven Architecture Stay hungry, stay foolish. Cloud Success usually comes to those who are too busy to be looking for it. Multi-threading DevOps Distributed Systems GraphQL UX Optimization I find that the harder I work, the more luck I seem to have.

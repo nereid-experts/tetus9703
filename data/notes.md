@@ -5,3 +5,4 @@ Kafka Containerization Lambda Functions Database Data Pipeline Distributed Syste
 Automation Deployment Database Cloud Functions Cloud
 Virtual Machines Work hard in silence, let your success be your noise. Database I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
 Microservices API Stay hungry, stay foolish. Kubernetes To be the best, you must be able to handle the worst. Virtual Machines Event Sourcing Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Replica Set React Work hard in silence, let your success be your noise.
+Scalability Act as if what you do makes a difference. It does. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Message Queue API Event Sourcing Agile Load Testing Success is how high you bounce when you hit bottom.
