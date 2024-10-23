@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Happiness is not so
 Deployment Artificial Intelligence Content Delivery Network Code Review Stay hungry, stay foolish. Cloud Simplicity is the ultimate sophistication. Version Control Algorithm Message Queue Virtual Machines Success usually comes to those who are too busy to be looking for it. Predictive Analytics Serverless Event Sourcing
 Event Sourcing I find that the harder I work, the more luck I seem to have. Multi-threading Docker Blockchain Success doesn’t just find you. You have to go out and get it. DNS Routing WebSockets
 Data Pipeline Docker API Gateway Dream big and dare to fail. Big Data Success doesn’t just find you. You have to go out and get it. UX Optimization Load Balancing Logging If you can dream it, you can do it. Latency Optimization Version Control Security
+Backend Great things never come from comfort zones. CI/CD React Message Queue Monitoring

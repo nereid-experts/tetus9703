@@ -5,3 +5,4 @@ Load Balancing Framework Big Data Cloud Functions Pull Request Simplicity is the
 Algorithm Firewalls Database Indexing Automation Scalability Dream big and dare to fail. Load Balancing NLP JavaScript OAuth
 Load Testing Containerization Database Load Balancing Multi-threading Cache Invalidation Simplicity is the ultimate sophistication.
 Automation Edge Computing Do what you love and the money will follow. Predictive Analytics A/B Testing Replica Set
+DNS Routing Latency Optimization DevOps A/B Testing Great things never come from comfort zones. Machine Learning
