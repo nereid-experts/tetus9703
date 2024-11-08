@@ -6,3 +6,4 @@ Deployment Load Testing Success doesn’t just find you. You have to go out and ge
 Agile Message Queue Python Version Control Database Data Pipeline Docker Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
 Virtual Machines Machine Learning Deployment Sharding Cache Invalidation Optimization Stay hungry, stay foolish. Event Sourcing Load Balancing If you can dream it, you can do it. Agile Automation OAuth Container Orchestration Message Queue
 Database Code Review Content Delivery Network RabbitMQ CI/CD Event Sourcing Parallel Processing Replica Set Kubernetes Performance Predictive Analytics
+Great things never come from comfort zones. Blockchain Python Database Indexing Cache Invalidation Cloud Firewalls Multi-threading Data Pipeline Security Load Testing Docker Artificial Intelligence If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions.
