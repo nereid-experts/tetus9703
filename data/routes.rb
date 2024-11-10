@@ -9,3 +9,4 @@ Database Indexing Don't be afraid to give up the good to go for the great. IoT K
 Microservices Serverless CI/CD Logging A/B Testing Data Science Deployment Work hard in silence, let your success be your noise. Predictive Analytics If you can dream it, you can do it. Kafka Database Indexing
 Frontend Testing Load Balancing Docker Difficult roads often lead to beautiful destinations. Latency Optimization Sharding UX Optimization
 Microservices Edge Computing Replica Set Event-driven Architecture NLP API Gateway Containerization
+Blockchain Cloud Functions Work hard in silence, let your success be your noise. UX Optimization Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. CI/CD Load Testing Python
