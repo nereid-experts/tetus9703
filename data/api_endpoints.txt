@@ -5,3 +5,4 @@ Parallel Processing Great things never come from comfort zones. Simplicity is th
 Deployment Load Testing Success doesn’t just find you. You have to go out and get it. Frontend Multi-threading Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Scalability I find that the harder I work, the more luck I seem to have. Agile
 Agile Message Queue Python Version Control Database Data Pipeline Docker Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
 Virtual Machines Machine Learning Deployment Sharding Cache Invalidation Optimization Stay hungry, stay foolish. Event Sourcing Load Balancing If you can dream it, you can do it. Agile Automation OAuth Container Orchestration Message Queue
+Database Code Review Content Delivery Network RabbitMQ CI/CD Event Sourcing Parallel Processing Replica Set Kubernetes Performance Predictive Analytics
