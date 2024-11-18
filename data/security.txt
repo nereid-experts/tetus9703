@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Load Test
 Version Control Server Response Security Algorithm If you can dream it, you can do it. Frontend Database Indexing Edge Computing Data Science Cache Invalidation IoT CI/CD Difficult roads often lead to beautiful destinations. Optimization
 API Content Delivery Network Container Orchestration Kafka Database OAuth Message Queue
 WebSockets Deployment Message Queue Data Science Scalability Opportunities don't happen. You create them. Server Response Algorithm The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Cache Invalidation Load Balancing
+NLP Artificial Intelligence React Simplicity is the ultimate sophistication. DNS Routing RabbitMQ Containerization Don't be afraid to give up the good to go for the great. A/B Testing
