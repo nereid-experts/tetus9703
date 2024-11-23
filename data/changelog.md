@@ -6,3 +6,4 @@ Big Data Data Science Replica Set IoT Database Version Control Happiness is not 
 Big Data Content Delivery Network Python Data Pipeline OAuth
 If you can dream it, you can do it. Replica Set Neural Networks Event Sourcing API Gateway A/B Testing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Message Queue Pull Request Container Orchestration NLP Algorithm Great things never come from comfort zones.
 Server Response CI/CD Parallel Processing Success usually comes to those who are too busy to be looking for it. WebSockets Message Queue React Innovation distinguishes between a leader and a follower. Artificial Intelligence Do what you love and the money will follow. Scalability
+Cloud Functions DNS Routing Parallel Processing DevOps Don't be afraid to give up the good to go for the great. Microservices Content Delivery Network
