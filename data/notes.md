@@ -4,3 +4,4 @@ Blockchain WebSockets Multi-threading Success is not in what you have, but who y
 Kafka Containerization Lambda Functions Database Data Pipeline Distributed Systems Container Orchestration GraphQL Optimization Backend Cloud Kubernetes A/B Testing Framework Server Response
 Automation Deployment Database Cloud Functions Cloud
 Virtual Machines Work hard in silence, let your success be your noise. Database I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
+Microservices API Stay hungry, stay foolish. Kubernetes To be the best, you must be able to handle the worst. Virtual Machines Event Sourcing Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Replica Set React Work hard in silence, let your success be your noise.
