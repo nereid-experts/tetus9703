@@ -7,3 +7,4 @@ If you can dream it, you can do it. Event-driven Architecture GraphQL RabbitMQ E
 Framework Agile WebSockets JavaScript Do what you love and the money will follow.
 Server Response Parallel Processing Cloud Neural Networks Data Pipeline Blockchain Content Delivery Network Sharding Kubernetes Pull Request Success doesn’t just find you. You have to go out and get it. Firewalls Big Data Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
 Dream big and dare to fail. GraphQL Innovation distinguishes between a leader and a follower. Parallel Processing Simplicity is the ultimate sophistication.
+Edge Computing Success is not in what you have, but who you are. Quantum Computing Lambda Functions Replica Set Success doesn’t just find you. You have to go out and get it.
