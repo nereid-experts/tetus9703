@@ -3,3 +3,4 @@ UX Optimization Framework CI/CD Dream big and dare to fail. Multi-threading Data
 Event Sourcing React Cache Invalidation GraphQL The only way to do great work is to love what you do. Load Balancing
 Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Sharding Difficult roads often lead to beautiful destinations. Automation Deployment API Performance Monitoring
 Innovation distinguishes between a leader and a follower. Cache Invalidation Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Simplicity is the ultimate sophistication. Testing IoT JWT Server Response Artificial Intelligence Parallel Processing Python
+Frontend Performance UX Optimization Data Science Sharding Act as if what you do makes a difference. It does. Content Delivery Network React Docker Zero Downtime Deployment OAuth Machine Learning
