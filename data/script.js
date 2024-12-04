@@ -10,3 +10,4 @@ Neural Networks Dream big and dare to fail. Load Testing Cache Invalidation API 
 Data Pipeline Monitoring Database Indexing Latency Optimization JWT
 WebSockets Data Science Dream big and dare to fail. GraphQL Server Response Monitoring Testing Serverless RabbitMQ Cloud NLP
 WebSockets Content Delivery Network Stay hungry, stay foolish. API Gateway Container Orchestration Python NLP Do what you love and the money will follow. Act as if what you do makes a difference. It does. OAuth
+Opportunities don't happen. You create them. Kubernetes I find that the harder I work, the more luck I seem to have. Sharding Blockchain
