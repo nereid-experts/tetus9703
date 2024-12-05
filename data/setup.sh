@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. Data Pipeline Docke
 Cloud Functions Quantum Computing Latency Optimization OAuth Do what you love and the money will follow.
 The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. API Gateway Server Response Artificial Intelligence Pull Request Stay hungry, stay foolish. DevOps Python RabbitMQ Framework Firewalls Security
 Work hard in silence, let your success be your noise. Zero Downtime Deployment Version Control Database DNS Routing Dream big and dare to fail. Data Pipeline Sharding Great things never come from comfort zones. Agile Cloud Functions DevOps Act as if what you do makes a difference. It does.
+Success doesn’t just find you. You have to go out and get it. Scalability Docker Backend I find that the harder I work, the more luck I seem to have.
