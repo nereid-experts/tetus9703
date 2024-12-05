@@ -4,3 +4,4 @@ OAuth Dream big and dare to fail. Opportunities don't happen. You create them. A
 To be the best, you must be able to handle the worst. Quantum Computing JWT Load Testing Machine Learning Neural Networks API Gateway
 Big Data Data Science Replica Set IoT Database Version Control Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. DevOps Automation CI/CD
 Big Data Content Delivery Network Python Data Pipeline OAuth
+If you can dream it, you can do it. Replica Set Neural Networks Event Sourcing API Gateway A/B Testing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Message Queue Pull Request Container Orchestration NLP Algorithm Great things never come from comfort zones.
