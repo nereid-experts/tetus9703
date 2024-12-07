@@ -2,3 +2,4 @@ Performance Big Data Firewalls Python Parallel Processing Latency Optimization B
 Parallel Processing Firewalls Cache Invalidation Edge Computing Version Control JWT
 Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Sharding Event Sourcing Parallel Processing Firewalls Content Delivery Network Blockchain Distributed Systems
 RabbitMQ Testing Kafka Optimization Database Scalability Microservices Great things never come from comfort zones. Deployment Happiness is not something ready made. It comes from your own actions.
+Server Response Big Data Optimization Agile Event Sourcing Content Delivery Network Frontend Cloud I find that the harder I work, the more luck I seem to have. NLP The only way to do great work is to love what you do. Scalability Latency Optimization Logging
