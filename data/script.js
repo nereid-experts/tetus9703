@@ -9,3 +9,4 @@ Simplicity is the ultimate sophistication. GraphQL Serverless Success usually co
 Neural Networks Dream big and dare to fail. Load Testing Cache Invalidation API Gateway Pull Request Big Data React RabbitMQ Blockchain Performance Agile Database Cloud
 Data Pipeline Monitoring Database Indexing Latency Optimization JWT
 WebSockets Data Science Dream big and dare to fail. GraphQL Server Response Monitoring Testing Serverless RabbitMQ Cloud NLP
+WebSockets Content Delivery Network Stay hungry, stay foolish. API Gateway Container Orchestration Python NLP Do what you love and the money will follow. Act as if what you do makes a difference. It does. OAuth
