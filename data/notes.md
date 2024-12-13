@@ -3,3 +3,4 @@ Monitoring Success usually comes to those who are too busy to be looking for it.
 Blockchain WebSockets Multi-threading Success is not in what you have, but who you are. Do what you love and the money will follow. A/B Testing Serverless Algorithm Big Data OAuth Cloud Predictive Analytics Cache Invalidation The only way to do great work is to love what you do. Event Sourcing
 Kafka Containerization Lambda Functions Database Data Pipeline Distributed Systems Container Orchestration GraphQL Optimization Backend Cloud Kubernetes A/B Testing Framework Server Response
 Automation Deployment Database Cloud Functions Cloud
+Virtual Machines Work hard in silence, let your success be your noise. Database I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
