@@ -3,3 +3,4 @@ Distributed Systems Backend Blockchain Stay hungry, stay foolish. Happiness is n
 Automation Container Orchestration Scalability Distributed Systems Dream big and dare to fail. Agile Predictive Analytics JavaScript Virtual Machines Monitoring Innovation distinguishes between a leader and a follower. WebSockets Testing Docker
 Testing Edge Computing Firewalls Optimization Cache Invalidation Success usually comes to those who are too busy to be looking for it. Data Science Data Pipeline JWT Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Latency Optimization
 Opportunities don't happen. You create them. Microservices GraphQL WebSockets Zero Downtime Deployment
+JWT Big Data Virtual Machines Great things never come from comfort zones. Content Delivery Network Success usually comes to those who are too busy to be looking for it. Multi-threading Serverless React Quantum Computing Innovation distinguishes between a leader and a follower.
