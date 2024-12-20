@@ -4,3 +4,4 @@ UX Optimization Security Code Review Pull Request OAuth Frontend Don't be afraid
 Load Balancing Framework Big Data Cloud Functions Pull Request Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Multi-threading
 Algorithm Firewalls Database Indexing Automation Scalability Dream big and dare to fail. Load Balancing NLP JavaScript OAuth
 Load Testing Containerization Database Load Balancing Multi-threading Cache Invalidation Simplicity is the ultimate sophistication.
+Automation Edge Computing Do what you love and the money will follow. Predictive Analytics A/B Testing Replica Set
