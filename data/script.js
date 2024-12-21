@@ -7,3 +7,4 @@ Happiness is not something ready made. It comes from your own actions. Replica S
 Success doesn’t just find you. You have to go out and get it. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Firewalls
 Simplicity is the ultimate sophistication. GraphQL Serverless Success usually comes to those who are too busy to be looking for it. Parallel Processing The only way to do great work is to love what you do. RabbitMQ Logging Microservices Multi-threading Version Control Database IoT API Data Science
 Neural Networks Dream big and dare to fail. Load Testing Cache Invalidation API Gateway Pull Request Big Data React RabbitMQ Blockchain Performance Agile Database Cloud
+Data Pipeline Monitoring Database Indexing Latency Optimization JWT
