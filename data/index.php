@@ -3,3 +3,4 @@ Content Delivery Network Backend Zero Downtime Deployment Container Orchestratio
 Database Indexing Data Pipeline Stay hungry, stay foolish. Security Latency Optimization NLP Replica Set
 Containerization Message Queue Kubernetes Logging Zero Downtime Deployment
 Neural Networks Kafka Replica Set Kubernetes Dream big and dare to fail. Machine Learning Great things never come from comfort zones.
+Big Data Logging Code Review Artificial Intelligence Docker Innovation distinguishes between a leader and a follower. Blockchain Framework Database Indexing Neural Networks Firewalls Event Sourcing API Gateway
