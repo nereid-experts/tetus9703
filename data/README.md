@@ -2,3 +2,4 @@ Stay hungry, stay foolish. OAuth RabbitMQ NLP Success usually comes to those who
 Virtual Machines Firewalls Big Data Edge Computing Database Data Science Version Control Multi-threading IoT Frontend Stay hungry, stay foolish.
 Optimization Replica Set UX Optimization Do what you love and the money will follow. Performance
 UX Optimization Distributed Systems Success is how high you bounce when you hit bottom. Container Orchestration Kafka Blockchain Microservices Deployment Stay hungry, stay foolish. Cache Invalidation Kubernetes Dream big and dare to fail. Latency Optimization
+I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Big Data DNS Routing Sharding
