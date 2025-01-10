@@ -2,3 +2,4 @@ OAuth Parallel Processing Success doesn’t just find you. You have to go out and 
 Monitoring Success usually comes to those who are too busy to be looking for it. Backend API Event Sourcing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment WebSockets OAuth
 Blockchain WebSockets Multi-threading Success is not in what you have, but who you are. Do what you love and the money will follow. A/B Testing Serverless Algorithm Big Data OAuth Cloud Predictive Analytics Cache Invalidation The only way to do great work is to love what you do. Event Sourcing
 Kafka Containerization Lambda Functions Database Data Pipeline Distributed Systems Container Orchestration GraphQL Optimization Backend Cloud Kubernetes A/B Testing Framework Server Response
+Automation Deployment Database Cloud Functions Cloud
