@@ -1,1 +1,2 @@
 Artificial Intelligence Don't be afraid to give up the good to go for the great. Latency Optimization JavaScript Cloud Functions Work hard in silence, let your success be your noise. Agile Kafka Microservices Machine Learning UX Optimization Containerization
+JWT Great things never come from comfort zones. WebSockets To be the best, you must be able to handle the worst. IoT JavaScript Automation Content Delivery Network Machine Learning Quantum Computing Backend Agile Serverless CI/CD I find that the harder I work, the more luck I seem to have.
