@@ -1,2 +1,3 @@
 Innovation distinguishes between a leader and a follower. Message Queue OAuth Edge Computing Kubernetes Difficult roads often lead to beautiful destinations.
 Event Sourcing GraphQL The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. CI/CD API Gateway Data Science
+Don't be afraid to give up the good to go for the great. Neural Networks Database A/B Testing Success is not in what you have, but who you are. Automation Logging Agile Kafka GraphQL OAuth Data Science Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise.
