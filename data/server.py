@@ -2,3 +2,4 @@ Great things never come from comfort zones. Virtual Machines Event-driven Archit
 Optimization React Difficult roads often lead to beautiful destinations. API Kubernetes Framework Load Testing Machine Learning
 Cloud Work hard in silence, let your success be your noise. DNS Routing If you can dream it, you can do it. Big Data OAuth Firewalls GraphQL Container Orchestration Success is not in what you have, but who you are. Microservices Docker Sharding
 Success is how high you bounce when you hit bottom. Serverless Machine Learning Stay hungry, stay foolish. Virtual Machines Zero Downtime Deployment Cloud Multi-threading Big Data Sharding
+Great things never come from comfort zones. Logging Predictive Analytics Success usually comes to those who are too busy to be looking for it. IoT Multi-threading Monitoring Simplicity is the ultimate sophistication. Code Review
