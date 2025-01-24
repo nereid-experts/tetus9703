@@ -1,1 +1,2 @@
 Cloud Functions Event-driven Architecture Pull Request API Stay hungry, stay foolish. Security
+JavaScript Load Balancing Don't be afraid to give up the good to go for the great. Cache Invalidation API Quantum Computing Kubernetes Great things never come from comfort zones. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Parallel Processing
