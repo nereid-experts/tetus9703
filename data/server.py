@@ -1,2 +1,3 @@
 Great things never come from comfort zones. Virtual Machines Event-driven Architecture Don't be afraid to give up the good to go for the great. Latency Optimization Monitoring JavaScript Act as if what you do makes a difference. It does. Agile Logging Framework Serverless To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it.
 Optimization React Difficult roads often lead to beautiful destinations. API Kubernetes Framework Load Testing Machine Learning
+Cloud Work hard in silence, let your success be your noise. DNS Routing If you can dream it, you can do it. Big Data OAuth Firewalls GraphQL Container Orchestration Success is not in what you have, but who you are. Microservices Docker Sharding
